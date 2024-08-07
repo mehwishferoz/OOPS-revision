@@ -18,6 +18,7 @@ int main()
 /*
 In C++, anonymous classes (also known as unnamed classes) are a feature where you define a class without giving it a name.
 These are often used when you need a class for a short-lived use, typically as a local class or a immediate use.
+Class without name, can't have constructor or destructor
 Key Points: 
     - Limited scope
     - No name
